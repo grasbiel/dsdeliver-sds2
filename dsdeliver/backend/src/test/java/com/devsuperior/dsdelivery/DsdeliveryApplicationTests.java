@@ -1,10 +1,10 @@
-package com.devsuperior.dsdeliver;
+package com.devsuperior.dsdelivery;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DsdeliverApplicationTests {
+class DsdeliveryApplicationTests {
 
 	@Test
 	void contextLoads() {
